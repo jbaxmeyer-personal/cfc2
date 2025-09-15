@@ -1755,7 +1755,7 @@
 				},
 				{
 					"abbreviation": "ASU",
-					"prestige": "60",
+					"prestige": "75",
 					"hexColor": "#8C1D40",
 					"offCoordinator": {
 						"contractLength": "3",
@@ -1806,7 +1806,7 @@
 				},
 				{
 					"abbreviation": "CAL",
-					"prestige": "50",
+					"prestige": "65",
 					"hexColor": "#FDB515",
 					"offCoordinator": {
 						"contractLength": "3",
@@ -1857,7 +1857,7 @@
 				},
 				{
 					"abbreviation": "ORST",
-					"prestige": "60",
+					"prestige": "65",
 					"hexColor": "#DC4405",
 					"offCoordinator": {
 						"contractLength": "3",
@@ -1908,7 +1908,7 @@
 				},
 				{
 					"abbreviation": "WSU",
-					"prestige": "55",
+					"prestige": "65",
 					"hexColor": "#981E32",
 					"offCoordinator": {
 						"contractLength": "3",
@@ -1959,7 +1959,7 @@
 				},
 				{
 					"abbreviation": "UCLA",
-					"prestige": "70",
+					"prestige": "50",
 					"hexColor": "#2D68C4",
 					"offCoordinator": {
 						"contractLength": "3",
@@ -2010,7 +2010,7 @@
 				},
 				{
 					"abbreviation": "ZONA",
-					"prestige": "55",
+					"prestige": "65",
 					"hexColor": "#003366",
 					"offCoordinator": {
 						"contractLength": "3",
@@ -2061,7 +2061,7 @@
 				}
 			],
 			"confFullName": "Pacific Athletic Conference",
-			"confPrestige": "75",
+			"confPrestige": "80",
 			"confName": "PAC10"
 		},
 		{
